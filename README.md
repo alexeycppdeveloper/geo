@@ -1,4 +1,5 @@
-Server provides the list of towns inside 20km radius of Client's point.
+Server provides the list of towns inside 50000m (50km) radius of Client's point.
+This radius can be adjusted in geo.hpp file.
 
 Server loads towns from geo.txt database in hashtable (takes 5 minutes on 2GHz Intel Core 2 Duo)
 on the very first Client's request.
