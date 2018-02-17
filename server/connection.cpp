@@ -59,10 +59,10 @@ Connection::write()
 	{
 		const std::pair<float, float>& client_point = get_client_point(buf_);
 		const auto& geohash = geo_parser::makeinfo().gethash();
-		std::uint32_t max_rad = geo_parser::makeinfo().getmaxradius();
+		int max_radius = geo_parser::makeinfo().getmaxradius();
 		
 		std::string towns = hash_parser::get_towns(
-			client_point.first, client_point.second, geohash, max_rad);
+			client_point.first, client_point.second, geohash, max_radius);
 		
 		if(towns.empty()) 
 		{		

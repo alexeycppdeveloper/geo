@@ -43,7 +43,7 @@ long double vincenty_distance(long double latitude1, long double longitude1, lon
 
 inline bool threshold_overpassed(const long double latitude1, const long double longitude1, const long double latitude2, const long double longitude2)
 {
-	const long double threshold = 20000.0;
+	const long double threshold = 50000.0;
 	return vincenty_distance(latitude1, longitude1, latitude2, longitude2) > threshold;
 }
 

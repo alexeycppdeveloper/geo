@@ -214,6 +214,7 @@
  39.8502  -75.1895  Thorofare
  32.9014  -117.2079  San Diego
  35.1168  -80.7237  Matthews
+ 35.1850  -90.0936  Memphis
  33.6383  -96.7245  Sherman
  40.7570  -73.5814  Westbury
  40.0902  -75.3937  King of Prussia
@@ -329,7 +330,6 @@
  38.9881  -77.4755  Sterling
  38.7932  -77.5366  Manassas
  38.4348  -77.9866  Culpeper
- 32225  30.3533 
  38.2357  -84.9592  Frankfort
  38.9841  -77.3827  Herndon
  38.7179  -77.8521  Warrenton
@@ -380,6 +380,7 @@
  40.7871  -74.3291  Livingston
  38.6182  -90.3467  Saint Louis
  38.6383  -90.4271  Fenton
+ 38.5974  -90.0071  Fairview Heights
  35.1364  -89.7726  Bartlett
  36.0312  -115.0739  Henderson
  37.2782  -89.5479  Cape Girardeau
@@ -520,6 +521,7 @@
  34.7742  -92.1554  North Little Rock
  33.0306  -96.9926  Lewisville
  35.6629  -89.1089  Bells
+ 34.9592  -90.0286  Horn Lake
  27.5596  -99.4608  Laredo
  32.2686  -111.0022  Tucson
  39.0278  -94.6558  Merriam
@@ -609,6 +611,7 @@
  42.1943  -93.6295  Story City
  37.7585  -82.7132  Van Lear
  42.0624  -87.9309  Mount Prospect
+ 37.7307  -89.9060  Perryville
  38.5105  -90.6365  Eureka
  39.8011  -89.6502  Springfield
  38.6125  -90.1678  East Saint Louis
@@ -619,6 +622,7 @@
  36.3365  -88.6714  Dresden
  25.9509  -97.3254  Brownsville
  30.1821  -94.0098  Vidor
+ 34.2988  -89.9478  Batesville
  35.2046  -88.1499  Savannah
  35.7881  -91.6458  Batesville
  21.3209  -157.8389  Honolulu
@@ -627,6 +631,7 @@
  20.8802  -156.4689  Kahului
  21.3775  -158.0862  Kapolei
  19.6976  -155.1413  Hilo
+ 38.6918  -89.9911  Collinsville
  38.7955  -90.2755  Florissant
  40.9513  -73.8773  Yonkers
  37.7666  -84.3031  Richmond
@@ -741,6 +746,7 @@
  39.1717  -94.6323  Riverside
  32.2313  -95.2958  Tyler
  37.1291  -93.5151  Republic
+ 29.7813  -90.0444  Belle Chasse
  39.4037  -92.4088  Moberly
  41.5330  -87.8898  Mokena
  30.8808  -88.5922  Lucedale
@@ -836,6 +842,7 @@
  39.6858  -86.4106  Plainfield
  42.4428  -71.2317  Lexington
  42.4163  -70.9969  Revere
+ 38.7549  -89.9740  Glen Carbon
  42.5879  -71.3498  Chelmsford
  38.9879  -76.5454  Annapolis
  39.3276  -104.8163  Castle Rock
@@ -866,6 +873,7 @@
  37.7083  -122.1282  San Leandro
  41.5061  -87.7370  Matteson
  42.0502  -70.6950  Duxbury
+ 38.8490  -89.9385  Edwardsville
  41.8734  -70.6394  Plymouth
  41.8648  -72.6819  Windsor
  42.3758  -83.2808  Redford
@@ -1138,6 +1146,7 @@
  39.9717  -74.8096  Westampton
  40.3289  -74.5857  Plainsboro
  36.2187  -115.1293  North Las Vegas
+ 30.4184  -90.0069  Mandeville
  34.1980  -119.1726  Oxnard
  40.8294  -73.5052  Syosset
  35.2375  -77.6151  Kinston
@@ -1250,6 +1259,7 @@
  42.0772  -87.7286  Wilmette
  42.4632  -96.3220  Sioux City
  41.2324  -95.8762  Council Bluffs
+ 34.9489  -89.9665  Southaven
  39.9558  -105.1683  Louisville
  41.5380  -96.1944  Blair
  43.1474  -95.1425  Spencer
@@ -1293,6 +1303,7 @@
  45.6023  -122.5167  Vancouver
  30.8563  -83.8977  Thomasville
  32.8293  -83.4928  Macon
+ 36.7808  -89.9999  Dexter
  40.3814  -82.4993  Mount Vernon
  32.2528  -80.8895  Bluffton
  30.2257  -98.1268  Dripping Springs
@@ -1338,6 +1349,7 @@
  30.5315  -90.4628  Hammond
  30.1605  -92.0332  Lafayette
  26.2394  -97.1853  South Padre Island
+ 29.8485  -90.0633  Harvey
  42.3541  -85.5470  Kalamazoo
  28.0305  -99.4187  Encinal
  31.6909  -89.1445  Laurel
@@ -1640,6 +1652,7 @@
  30.1023  -81.3532  Ponte Vedra Beach
  33.4514  -84.1870  McDonough
  31.2163  -81.3666  Saint Simons Island
+ 40.7949  -90.0430  Yates City
  33.4782  -117.7064  Dana Point
  36.4642  -87.3797  Clarksville
  29.9430  -81.7433  Green Cove Springs
@@ -1976,6 +1989,7 @@
  35.8864  -90.6425  Jonesboro
  36.4830  -119.5065  Kingsburg
  42.3478  -73.5549  Chatham
+ 36.5640  -89.9699  Malden
  33.8417  -118.0076  Buena Park
  34.0790  -117.8494  Covina
  33.9782  -117.9040  Rowland Heights
@@ -2462,6 +2476,7 @@
  42.6434  -86.2006  Douglas
  43.0320  -85.0575  Ionia
  42.5602  -85.8586  Allegan
+ 35.8711  -89.9046  Blytheville
  41.7119  -85.3692  Howe
  43.1027  -86.2239  Spring Lake
  34.5301  -90.6512  West Helena
@@ -2569,7 +2584,9 @@
  41.6809  -86.8658  Michigan City
  40.7923  -74.1001  Lyndhurst
  38.0714  -122.6799  Nicasio
+ 32.6252  -90.0229  Canton
  36.8541  -94.3990  Neosho
+ 32.2539  -90.0948  Pearl
  40.6659  -73.6395  Rockville Centre
  35.4615  -86.4898  Shelbyville
  37.5803  -85.9433  Glendale
@@ -2935,6 +2952,7 @@
  41.8157  -89.4818  Dixon
  40.8533  -91.2107  West Burlington
  40.5023  -89.4812  Tremont
+ 41.2608  -89.9441  Kewanee
  39.4885  -88.3596  Mattoon
  41.9774  -89.8810  Chadwick
  40.9421  -90.3780  Galesburg
@@ -3071,6 +3089,7 @@
  38.3078  -86.7006  Birdseye
  38.1382  -86.5888  Branchville
  37.2507  -85.5177  Greensburg
+ 43.4599  -89.9319  Rock Springs
  39.1659  -84.2295  Milford
  37.3354  -82.9566  Hindman
  39.3555  -84.7793  Okeana
@@ -3142,6 +3161,7 @@
  41.1908  -83.6864  North Baltimore
  39.0012  -76.9317  College Park
  38.9187  -77.9362  Delaplane
+ 29.9121  -90.0549  Gretna
  30.1815  -92.1825  Duson
  30.6379  -91.1797  Zachary
  30.0742  -92.1483  Maurice
@@ -3551,6 +3571,7 @@
  45.2603  -94.1308  Annandale
  47.2834  -93.1929  Pengilly
  44.4619  -88.9150  Iola
+ 43.7720  -90.0337  Mauston
  42.0826  -78.7601  Salamanca
  40.9812  -76.9587  Lewisburg
  33.8396  -88.1066  Sulligent
@@ -4031,6 +4052,7 @@
  34.6410  -89.1953  Hickory Flat
  42.3984  -73.8317  West Coxsackie
  38.5970  -82.4525  Willow Wood
+ 43.5309  -89.9734  Reedsburg
  35.6454  -119.4435  Wasco
  42.8436  -83.0403  Romeo
  46.3601  -98.2646  Lamoure
@@ -4352,6 +4374,7 @@
  38.6366  -78.1116  Castleton
  33.1008  -86.7083  Calera
  33.2184  -87.2287  Vance
+ 32.0626  -89.9929  Piney Woods
  39.0020  -121.0331  Meadow Vista
  32.9530  -102.8815  Denver City
  45.7553  -107.7902  Hardin
@@ -4407,6 +4430,8 @@
  39.4104  -81.6077  Fleming
  37.9180  -122.3032  El Cerrito
  34.1044  -117.0486  Mentone
+ 39.0497  -89.9513  Bunker Hill
+ 29.7065  -89.9610  Braithwaite
  29.4751  -95.3598  Manvel
  32.7380  -96.4463  Forney
  29.8647  -94.2743  Hamshire
@@ -4555,6 +4580,7 @@
  31.0965  -91.0872  Centreville
  30.1828  -104.3885  Marfa
  28.8683  -99.1074  Pearsall
+ 45.9580  -89.9082  Lac du Flambeau
  38.1073  -75.7442  Westover
  40.1005  -74.7203  Bordentown
  29.6193  -81.8979  Edgar
@@ -4600,6 +4626,7 @@
  34.5102  -118.6804  Castaic
  35.7833  -119.2361  Delano
  33.1071  -86.9032  Montevallo
+ 34.6170  -89.9080  Senatobia
  43.6667  -79.4167  Toronto
  49.3000  -124.3167  Parksville
  53.5500  -113.5000  Edmonton
@@ -5157,6 +5184,7 @@
  58.6000  16.1833  Norrkoping
  40.4086  -3.6922  Madrid
  45.6730  -73.8800  Blainville
+ 38.3859  -90.0104  Smithton
  49.9000  -119.4833  Kelowna
  43.6109  3.8772  Montpellier
  -37.8139  144.9634  Melbourne
@@ -5509,6 +5537,7 @@
  36.2939  -119.8286  Lemoore
  41.0207  -91.5839  Mount Pleasant
  31.4520  -98.5593  Goldthwaite
+ 38.2140  -90.0135  Red Bud
  49.3167  -117.6667  Castlegar
  51.0000  -118.1833  Revelstoke
  29.4420  -82.8770  Chiefland
@@ -5978,6 +6007,7 @@
  18.2000  -63.0667  Anguilla
  17.1333  -61.8167  Jolly Harbour
  45.6333  -72.9333  Saint Hyacinthe
+ 29.9566  -89.9642  Chalmette
  29.7521  -91.4813  Franklin
  30.0496  -90.7029  Lutcher
  54.5000  -128.5833  Terrace
@@ -6106,6 +6136,7 @@
  42.9837  -108.6269  Arapahoe
  30.1794  -96.9072  Giddings
  43.5995  1.4332  Toulouse
+ 44.0798  -90.0879  Necedah
  44.2247  -95.2694  Lamberton
  44.5425  -94.2119  Gaylord
  45.5254  -91.0503  Ladysmith
@@ -6354,6 +6385,7 @@
  34.8571  -79.0492  Rex
  49.2333  -124.8000  Port Alberni
  52.9000  -2.4667  Market Drayton
+ 23.7231  90.4086  Dhaka
  -33.8333  150.9833  Merrylands
  43.2108  -76.1363  Brewerton
  34.7667  32.4167  Paphos
@@ -6482,6 +6514,7 @@
  34.3417  -112.0367  Mayer
  33.6295  -110.7071  Globe
  30.8281  -91.4486  Saint Francisville
+ 30.7554  -89.9131  Bogalusa
  32.7081  -93.2779  Minden
  41.4979  -75.5476  Archbald
  37.6528  -101.3160  Ulysses
@@ -6519,6 +6552,7 @@
  43.0693  -96.7959  Beresford
  38.3439  -85.4299  Crestwood
  5.4112  100.3354  Penang
+ 29.2331  -89.9962  Grand Isle
  40.9357  -72.9809  Miller Place
  19.2000  -96.1333  Veracruz
  47.0597  -122.3623  Spanaway
@@ -7000,6 +7034,7 @@
  46.2536  -90.7280  Mellen
  44.0069  -91.2272  Holmen
  45.9242  -90.3265  Park Falls
+ 38.6303  -90.0121  Caseyville
  39.1614  -90.8388  Elsberry
  38.1658  -93.1716  Edwards
  32.3011  -85.3180  Hatchechubbee
@@ -7760,6 +7795,7 @@
  39.9232  -85.5486  Shirley
  39.2591  -96.3007  Wamego
  35.5252  -82.9711  Lake Junaluska
+ 33.5078  -89.9643  Carrollton
  40.5730  -120.6182  Susanville
  45.8000  16.0000  Zagreb
  53.7667  -2.7167  Preston
@@ -8271,6 +8307,7 @@
  41.7465  -75.8983  Dimock
  47.4360  -113.7088  Condon
  44.5678  -110.4412  Yellowstone National Park
+ 38.4153  -89.9064  Freeburg
  31.9854  -84.0860  Leslie
  36.9868  -77.7231  Mckenney
  37.4348  -77.0559  Providence Forge
@@ -8291,6 +8328,7 @@
  35.8060  -92.5784  Leslie
  35.9302  -91.9109  Guion
  37.4784  -95.1584  Saint Paul
+ 36.2357  -90.0421  Kennett
  34.4181  -119.5903  Summerland
  34.2890  -80.1123  Lydia
  36.5953  -4.6399  Mijas
@@ -8299,6 +8337,7 @@
  52.2655  5.1794  Bussum
  55.5833  -2.7167  Melrose
  41.7554  -105.9561  Rock River
+ 47.9718  -90.0459  Grand Marais
  43.3192  -80.8384  Tavistock
  38.7257  -80.8036  Gassaway
  32.6283  -116.6751  Dulzura
@@ -8527,6 +8566,7 @@
  37.7022  -75.6592  Accomac
  42.6406  -84.6542  Dimondale
  33.2677  -84.5999  Senoia
+ 30.4904  -89.9549  Abita Springs
  30.4224  -88.6527  Gautier
  45.2972  -97.6034  Webster
  12.1500  -68.2667  Kralendijk
@@ -8700,6 +8740,7 @@
  21.9081  -159.4762  Koloa
  19.4601  -155.0246  Pahoa
  -16.3989  -71.5350  Arequipa
+ 29.9313  -89.9228  Meraux
  30.0749  -93.8557  Orangefield
  31.6706  -85.8347  Brundidge
  43.7287  -72.6190  Barnard
@@ -9010,6 +9051,7 @@
  34.7351  -102.7842  Friona
  40.8334  -78.9968  Rochester Mills
  38.9681  -83.5601  Seaman
+ 42.8749  -89.9315  Hollandale
  41.4839  -120.1413  Cedarville
  36.5158  -95.7241  Talala
  37.1526  -79.4836  Huddleston
@@ -9096,6 +9138,7 @@
  53.2833  -4.5667  Valley
  41.9391  -78.3778  Eldred
  41.2160  -88.2677  Braceville
+ 40.7815  -89.9226  Elmwood
  45.2342  -87.5643  Menominee
  29.6675  -94.0718  Sabine Pass
  21.5666  -157.8909  Hauula
@@ -9136,12 +9179,14 @@
  41.1363  -75.4230  Pocono Summit
  34.6119  -120.2269  Buellton
  39.6274  -76.0726  Port Deposit
+ 30.6015  -89.9627  Bush
  46.2263  -71.7766  Plessisville
  34.2275  -89.0352  Pontotoc
  37.9429  -81.1509  Hilltop
  39.0492  -79.9561  Belington
  30.0687  -90.6090  Garyville
  32.1861  -90.2540  Byram
+ 38.4650  -90.0978  Millstadt
  38.1795  -92.6042  Lake Ozark
  52.8156  -8.9667  Dromoland
  38.3678  26.1358  Chíos
@@ -9243,6 +9288,7 @@
  35.7966  -119.1079  Richgrove
  38.5792  -90.7751  Saint Albans
  38.4920  -89.6736  New Baden
+ 38.8228  -90.0600  Pontoon Beach
  43.9742  -70.5161  Casco
  41.5497  -73.7263  Stormville
  33.3510  -91.2811  Lake Village
@@ -9348,6 +9394,7 @@
  36.1462  -87.2039  White Bluff
  33.7157  -83.7988  Jersey
  29.9180  -90.2033  Westwego
+ 36.6573  -89.9891  Bernie
  50.7000  -3.0667  Seaton
  -4.2592  15.2847  Brazzaville
  36.7276  -80.4185  Meadows Of Dan
@@ -9447,6 +9494,7 @@
  -34.9000  -54.9500  Maldonado
  44.1833  28.6500  Constanta
  31.7413  -83.4825  Rebecca
+ 36.4503  -89.9849  Clarkton
  47.4333  -70.5000  Baie-Saint Paul
  42.7790  -81.1908  Saint Thomas
  43.1021  -79.5456  Smithville
@@ -9615,6 +9663,7 @@
  44.9586  -90.5539  Owen
  45.3257  -95.1088  Sunburg
  33.9195  -92.3170  Kingsland
+ 44.5470  -90.0326  Arpin
  52.1333  -0.8500  Hartwell
  36.6249  -95.9607  Ochelata
  32.1757  -104.3766  Whites City
@@ -9742,6 +9791,7 @@
  30.1955  -82.8279  Wellborn
  37.3995  -77.7820  Moseley
  40.2378  -79.9842  Finleyville
+ 44.9002  -90.0192  Edgar
  32.3410  -84.1204  Oglethorpe
  40.9405  -79.7517  Chicora
  32.7920  -81.9934  Millen
@@ -14440,6 +14490,7 @@
  38.2333  16.2667  Locri
  52.2167  9.9667  Harsum
  58.6244  8.9286  Tvedestrand
+ 56.2694  90.4993  Achinsk
  51.1000  12.9667  Hartha
  60.5167  8.2000  Hol
  49.3333  7.2667  Bexbach
@@ -21646,6 +21697,7 @@
  64.2500  12.3667  Snåsa
  48.6894  7.3826  Marmoutier
  42.4500  11.4167  Capalbio
+ 36.3546  -90.0251  Holcomb
  45.9333  10.2000  Borno
  44.9000  9.0500  Godiasco
  55.7833  -2.0000  Berwick-upon-Tweed
@@ -26923,6 +26975,7 @@
  34.8167  134.7000  Himeji
  6.4828  124.9367  Zulueta
  11.0500  122.8500  California
+ 8.4333  99.9667  Nakhon Si Thammarat
  15.9333  120.3833  Carlos
  37.6333  117.1500  Yangan
  17.5314  78.2650  Patancheru
@@ -27457,6 +27510,7 @@
  40.4518  -95.3419  Tarkio
  39.4047  -8.4863  Golega
  35.3056  -117.9536  Cantil
+ 32.7890  -90.0863  Vaughan
  35.0687  -86.4125  Flintville
  34.5359  -81.1094  Blackstock
  39.4804  -80.2734  Carolina
@@ -27675,6 +27729,7 @@
  32.1300  -90.3388  Terry
  32.3401  -92.9567  Bienville
  30.9957  -92.3328  Cheneyville
+ 31.8504  -90.0074  Pinola
  43.8618  -71.9264  Wentworth
  28.4322  -80.7601  Sharpes
  28.7393  -81.9129  Okahumpka
@@ -27836,6 +27891,7 @@
  38.3614  -95.6186  Waverly
  38.1363  -90.8428  Richwoods
  38.4779  -94.9925  Osawatomie
+ 37.1379  -90.0418  Sturdivant
  38.2762  -90.3130  Valmeyer
  36.7999  -119.1325  Dunlap
  41.5623  -72.5554  Cobalt
@@ -27962,6 +28018,7 @@
  42.1299  -76.5015  Lockwood
  57.4465  -134.4846  Angoon
  64.0115  -148.3592  Healy
+ 33.9698  -89.9116  Tillatoba
  39.6961  -105.7258  Silver Plume
  37.7278  -78.2619  Bremo Bluff
  43.1592  -76.4472  Plainville
@@ -27978,6 +28035,7 @@
  36.8082  -80.2669  Woolwine
  40.6256  -98.7060  Kenesaw
  40.7603  -98.1685  Giltner
+ 37.8181  -90.0020  Saint Mary
  34.3904  -78.2497  Riegelwood
  33.5726  -79.8332  Salters
  39.4397  -89.6214  Farmersville
@@ -28029,6 +28087,7 @@
  40.7953  -86.6491  Idaville
  37.5931  -83.2878  Rousseau
  37.3714  -83.8636  Tyner
+ 41.4244  -89.9291  Annawan
  40.0476  -90.1501  Chandlerville
  45.0198  -87.2751  Egg Harbor
  40.6439  -78.6226  Patton
@@ -28045,6 +28104,7 @@
  45.2274  -91.0436  Holcombe
  36.6151  -80.6733  Cana
  36.2489  -90.2944  Rector
+ 35.6657  -90.0988  Keiser
  44.4566  -123.9414  Waldport
  43.2268  -92.6877  Orchard
  42.6648  -94.0601  Thor
@@ -28123,6 +28183,7 @@
  40.5801  -88.8742  Towanda
  41.4564  -89.6690  Manlius
  41.9605  -90.3352  Bryant
+ 41.6059  -89.9401  Prophetstown
  40.9853  -88.9892  Dana
  42.6448  -93.9118  Eagle Grove
  41.3778  -85.6132  Cromwell
@@ -28174,6 +28235,7 @@
  39.0452  -122.7420  Glenhaven
  44.5062  -94.7242  Fairfax
  44.7592  -94.4910  Stewart
+ 42.4558  -89.9454  Nora
  42.3025  -89.4825  Ridott
  42.9199  -95.2442  Linn Grove
  43.0158  -95.0375  Gillett Grove
@@ -28231,6 +28293,7 @@
  38.8480  -81.8441  Cottageville
  38.7515  -88.8477  Kinmundy
  39.2004  -88.6801  Shumway
+ 39.3442  -90.0704  Hettick
  33.8775  -99.7615  Crowell
  36.7966  -93.9327  Purdy
  40.1623  -74.4759  Imlaystown
@@ -28251,6 +28314,7 @@
  47.2400  -117.1163  Tekoa
  40.1800  -79.8490  Webster
  32.9884  -111.4473  Valley Farms
+ 40.1439  -90.0232  Kilbourne
  37.6787  -81.5015  Sabine
  40.2175  -83.5660  North Lewisburg
  33.2592  -88.1367  Carrollton
@@ -29534,6 +29598,7 @@
  33.1634  -94.0507  Bloomburg
  32.5826  -94.7535  Judson
  33.5248  -97.5508  Forestburg
+ 31.4596  -89.9434  Oak Vale
  32.3543  -92.3830  Eros
  32.7321  -90.4604  Tinsley
  32.6046  -90.8493  Valley Park
@@ -29551,6 +29616,7 @@
  40.3857  -89.5142  Delavan
  41.8652  -90.9741  Lowden
  45.5860  -92.9967  Harris
+ 40.3410  -89.9088  Topeka
  36.9508  -77.8197  Rawlings
  37.9101  -76.2836  Ophelia
  37.6878  -78.7374  Wingina
@@ -29682,6 +29748,7 @@
  38.9194  -123.5814  Point Arena
  44.1720  -72.6509  Northfield Falls
  35.9315  -119.0394  Terra Bella
+ 35.5020  -89.9333  Drummonds
  31.9369  -86.2265  Grady
  34.7238  -85.6589  Ider
  40.6206  -77.3009  Oakland Mills
@@ -29845,6 +29912,7 @@
  55.9333  -130.0000  Stewart
  39.1518  -123.5420  Navarro
  38.2570  -78.9653  Mount Sidney
+ 42.1165  -89.9732  Mount Carroll
  40.5325  -89.3428  Mackinaw
  32.7432  -101.4295  Gail
  52.7500  -114.2833  Bluffton
@@ -29894,6 +29962,8 @@
  43.1537  -76.8786  Rose
  46.0619  -95.2919  Miltona
  37.4375  -89.8385  Millersville
+ 37.2328  -89.9138  Leopold
+ 37.5263  -90.0403  Patton
  37.4290  -92.5905  Grovespring
  38.3680  -92.3132  Henley
  -0.8333  -78.6667  Saquisilí
@@ -30012,6 +30082,7 @@
  42.3854  -72.0954  South Barre
  37.9454  -85.9932  Muldraugh
  30.9125  -83.5039  Morven
+ 31.2442  -89.9146  Foxworth
  38.1451  -84.1113  North Middletown
  33.7834  -90.1553  Philipp
  30.6914  -91.5741  Morganza
@@ -30224,6 +30295,7 @@
  40.3601  -78.6322  Martindale
  36.1431  -108.7104  Sheep Springs
  41.0954  -90.8329  Seaton
+ 41.7320  -89.9195  Lyndon
  44.6758  -116.0046  Donnelly
  39.0930  -89.7460  Mount Olive
  58.7551  -156.5485  King Salmon
@@ -30253,6 +30325,7 @@
  39.8051  -80.6666  Glen Easton
  37.2955  -83.2439  Bonnyman
  37.2312  -82.9120  Mallie
+ 33.3758  -90.0135  Coila
  32.0569  -92.4338  Sikes
  32.0266  -92.1390  Clarks
  31.9497  -92.1398  Kelly
@@ -30339,6 +30412,7 @@
  34.4554  -96.6617  Connerville
  37.1897  -93.9928  La Russell
  38.5003  -90.8348  Gray Summit
+ 38.9305  -89.9842  Moro
  33.5419  -91.4540  Dermott
  33.6208  -91.9468  Wilmar
  35.4628  -92.3920  Bee Branch
@@ -30347,6 +30421,7 @@
  37.8013  -95.1971  Elsmore
  37.9655  -92.2819  Crocker
  39.6450  -87.1775  Bridgeton
+ 35.8212  -89.9315  Burdette
  39.8355  -98.4289  Esbon
  39.6624  -98.2265  Jewell
  33.3325  -94.3150  Maud
@@ -30848,6 +30923,7 @@
  36.9953  -87.1478  Clifty
  38.0936  -98.1146  Nickerson
  30.8932  -92.3098  Centerville
+ 38.9086  -90.0874  Cottage Hills
  40.5838  -89.8407  Glasford
  41.0862  -79.0264  Knox Dale
  40.5100  -79.5108  Avonmore
@@ -31031,6 +31107,7 @@
  28.5708  -97.7972  Tuleta
  35.0359  -84.3827  Ducktown
  51.5333  -114.1000  Carstairs
+ 30.3586  -89.9371  Lacombe
  31.7418  -100.2862  Tennyson
  31.0954  -100.4025  Christoval
  31.8892  -100.6013  Robert Lee
@@ -31237,6 +31314,7 @@
  39.0767  -83.8441  Buford
  41.2028  -83.5445  Bloomdale
  40.2081  -83.6383  Mingo
+ 32.3918  -90.0320  Lakeshore
  29.4566  -95.9820  Beasley
  41.3716  -96.1998  Bennington
  32.6754  -84.4907  Talbotton
@@ -31353,6 +31431,7 @@
  31.3441  -99.3865  Lohn
  42.9673  -75.6880  Peterboro
  38.8325  -88.0970  Dundas
+ 40.0826  -89.9903  Oakford
  41.1215  -89.4635  Henry
  39.2094  -84.9523  Guilford
  44.8773  -85.9926  Glen Arbor
@@ -31548,6 +31627,8 @@
  14.7333  -91.1500  Panajachel
  26.8965  -98.2268  Encino
  26.3697  -97.6774  Lyford
+ 41.5223  -89.9098  Hooppole
+ 41.3919  -90.0141  Atkinson
  18.5000  -77.6500  Falmouth
  18.1333  -77.7833  Carisbrook
  39.9578  -79.8679  Cardale
@@ -31613,6 +31694,7 @@
  30.1899  -92.5826  Mermentau
  31.2024  -93.1274  Slagle
  37.9434  -84.6419  Keene
+ 33.9100  -89.9323  Scobey
  37.7351  -87.3317  Curdsville
  30.7146  -92.8721  Mittie
  36.4417  -92.2290  Gamaliel
@@ -31684,6 +31766,7 @@
  42.1191  -95.2999  Deloit
  41.4473  -120.9441  Canby
  40.8623  -90.8694  Biggsville
+ 38.9692  -89.9744  Dorsey
  38.0452  -80.3551  Renick
  42.6876  -75.4523  Sherburne
  36.9132  -110.8761  Tonalea
@@ -31746,6 +31829,7 @@
  46.7498  -121.8126  Longmire
  44.1290  -91.9592  Altura
  32.6937  -84.0729  Roberta
+ 40.9348  -90.0259  Williamsfield
  36.4533  -94.9169  Eucha
  38.0185  -93.2014  Cross Timbers
  37.7954  -87.8336  Waverly
@@ -31823,6 +31907,7 @@
  40.0557  -87.0593  Waynetown
  41.3654  -90.2667  Osco
  42.5536  -88.2945  Powers Lake
+ 41.7339  -90.0667  Fenton
  32.6048  -116.6131  Potrero
  34.2681  -116.9425  Fawnskin
  47.9100  -114.2105  Rollins
@@ -34478,6 +34563,7 @@
  -38.3428  145.7638  Poowong
  -23.0167  147.9000  Retro
  34.9050  -116.8203  Yermo
+ 37.0809  -89.9545  Brownwood
  31.6507  -94.8763  Douglass
  46.3846  6.8533  Le Bouveret
  40.8801  -76.6658  Snydertown
@@ -34719,6 +34805,7 @@
  37.8308  -80.8828  Meadow Bridge
  39.0081  -79.7629  Kerens
  38.8010  -79.0775  Milam
+ 45.6642  -89.9308  Tripoli
  13.9942  -89.5597  Santa Ana
  14.1500  -89.5667  San Miguel
  27.2964  -97.8206  Riviera
@@ -35237,6 +35324,7 @@
  16.5167  -88.3667  Placencia
  17.1561  -89.0714  San Ignacio
  32.5167  -116.6167  La Joya
+ 14.6333  -89.9833  Jalapa
  32.3333  -117.0333  Rosarito
  -34.3167  -57.2167  Nueva Helvecia
  -34.6650  -56.2194  Progreso
@@ -36137,6 +36225,7 @@
  42.1662  -94.2518  Paton
  42.5864  -74.8339  Schenevus
  45.0144  -101.4315  Lantry
+ 43.0134  -89.9865  Ridgeway
  34.0763  -100.8675  Matador
  44.2500  -80.5500  Flesherton
  44.3667  -76.7667  Yarker
@@ -36455,6 +36544,7 @@
  42.1728  -78.9478  East Randolph
  43.3967  -75.8175  Westdale
  44.9451  -74.3322  Constable
+ 42.5740  -90.0236  Gratiot
  38.9667  -83.2372  Rarden
  32.7570  -98.6412  Caddo
  40.1011  -78.9387  Kantner
@@ -36475,6 +36565,7 @@
  28.8869  -97.2942  Meyersville
  28.6956  -97.2358  Fannin
  31.4622  -98.1648  Evant
+ 38.3051  -89.9943  Hecker
  33.0354  -90.9747  Glen Allan
  56.9758  -133.9472  Kake
  36.7494  -93.9056  Butterfield
@@ -36514,6 +36605,7 @@
  35.4097  -80.1123  Badin
  37.0042  -89.5270  Blodgett
  33.8366  -80.0807  Sardinia
+ 46.4702  -89.9966  Ramsay
  46.5275  -88.1459  Michigamme
  46.5618  -89.3645  Ewen
  45.8114  -63.4716  Wallace
@@ -36703,6 +36795,7 @@
  36.6955  -98.9947  Hopeton
  34.6815  -98.7406  Indiahoma
  37.6281  -96.2346  Severy
+ 38.0147  -90.0154  Modoc
  36.0608  -88.2716  Bruceton
  65.6989  -156.3505  Huslia
  62.8477  -163.6550  Kotlik
@@ -36778,6 +36871,7 @@
  45.4396  -90.2843  Ogema
  34.5597  -85.5789  Mentone
  38.0598  -86.9314  Lamar
+ 36.1336  -89.9816  Gobler
  35.9839  -89.5823  Finley
  44.1427  -72.4768  Graniteville
  33.8842  -79.3400  Gresham
@@ -37739,6 +37833,7 @@
  44.7021  -72.4902  Eden Mills
  37.6583  -77.8077  Crozier
  32.1410  -87.7064  Magnolia
+ 33.7724  -90.0169  Holcomb
  32.8060  -90.9268  Cary
  50.0667  -112.2500  Retlaw
  58.4000  -116.0000  Fort Vermilion
@@ -38256,6 +38351,7 @@
  49.5500  -120.7500  Tulameen
  48.2087  -118.2479  Inchelium
  18.3115  -65.3055  Culebra
+ 36.0960  -90.0148  Rives
  44.5500  -78.3333  Buckhorn
  44.3767  -97.8234  Iroquois
  44.1093  -97.2301  Ramona
@@ -39115,6 +39211,7 @@
  -3.9500  122.2333  Benua
  5.8933  95.3214  Sabang
  -17.4833  140.8333  Kimberly
+ 22.9333  90.1667  Nagar
  14.9167  120.7667  Frances
  11.8086  99.7967  Prachuap Khiri Khan
  -39.8000  176.9833  Waimarama
@@ -39226,6 +39323,7 @@
  32.0401  -106.6856  Chamberino
  48.3114  -98.8004  Webster
  19.3000  -81.1167  East End
+ 35.9598  -89.9720  Gosnell
  41.6789  -82.8121  Middle Bass
  47.8167  -80.0000  Charlton
  43.2590  -102.4977  Manderson
@@ -39275,6 +39373,7 @@
  41.8679  -124.1490  Fort Dick
  36.4252  -88.1642  Buchanan
  45.9546  -86.4741  Cooks
+ 33.5182  -89.9206  North Carrollton
  42.2781  -74.0856  Acra
  51.8500  -102.5333  Sturgis
  50.2167  -109.6167  Golden Prairie
@@ -39313,6 +39412,7 @@
  37.6102  -82.7171  Allen
  31.0605  -90.4723  Chatawa
  30.8760  -90.5120  Tangipahoa
+ 39.5964  -89.9469  Waverly
  46.0501  -102.9128  Reeder
  14.5333  -91.5000  Mazatenango
  51.6667  -112.7667  Morrin
@@ -40028,6 +40128,7 @@
  10.4500  105.6333  Cao Lãnh
  -46.6333  168.8833  Otara
  -45.3667  170.8500  Moeraki
+ 12.8000  99.9667  Cha-Am
  13.4244  99.9569  Amphawa
  34.5167  135.7500  Yamato-takada
  19.8703  -155.2297  Hakalau
@@ -40203,6 +40304,7 @@
  -28.6667  153.2833  The Channon
  -17.6333  146.0333  Moresby
  4.4833  101.4500  Cameron Highlands
+ 23.8553  90.0125  Manikganj
  19.4811  99.7236  Phan
  -35.2667  138.6667  Kyeema
  -35.2833  138.7333  Mcharg Creek
@@ -40253,6 +40355,7 @@
  46.3542  -85.1501  Hulbert
  39.2802  -102.4509  Bethune
  35.9639  -84.8180  Crab Orchard
+ 36.0657  -90.0727  Hornersville
  41.6104  -75.3398  Prompton
  45.8333  -97.3276  Veblen
  46.2291  -73.5359  Saint-Jean-de-Matha
@@ -42148,6 +42251,7 @@
  39.0893  -106.3390  Twin Lakes
  46.7500  -70.5833  Armagh
  40.3948  -81.4071  Tuscarawas
+ 40.4626  -90.0912  Bryant
  41.4007  -78.2316  Driftwood
  48.1056  -98.5625  Crary
  47.9634  6.4576  Plombieres-les-Bains
@@ -42962,6 +43066,7 @@
  36.0711  14.2586  Marsalforn
  46.5328  6.1375  Bois-d\amont
  40.0905  -93.2921  Humphreys
+ 35.6202  -90.0055  Driver
  27.0781  -97.8883  Sarita
  50.6833  -114.2667  Turner Valley
  32.9266  -81.1278  Brunson
@@ -43073,6 +43178,7 @@
  -32.9537  115.8969  Yarloop
  -33.1667  138.1167  Napperby
  13.8050  100.4728  Bang Kruai
+ 22.7000  90.3667  Barisal
  19.3000  72.8500  Bhayandar
  32.9667  131.4000  Taketa
  17.8785  102.7420  Nong Khai
@@ -46970,6 +47076,7 @@
  -37.4188  143.7122  Learmonth
  -30.4961  115.0672  Cervantes
  42.7342  140.8728  Rusutsu
+ 23.2833  90.3500  Mirpur
  34.9833  136.5333  Sakura
  17.9167  73.6667  Mahabaleshwar
  -2.7500  107.6500  Tanjungpandan
@@ -47583,6 +47690,7 @@
  -34.9828  -58.3825  Alejandro Korn
  -22.6333  -50.2333  Platina
  -38.1489  146.4804  Tyers
+ 27.5500  90.7333  Jakar
  -37.9000  142.8167  Woorndoo
  -37.2167  174.7833  Glenbrook
  -35.1333  138.8167  Flaxley
@@ -48964,6 +49072,7 @@
  18.5376  120.7671  Bangui
  42.5833  23.3667  Bistritsa
  55.0500  24.4000  Rukla
+ 43.9841  -89.9387  Dellwood
  48.9994  -116.1813  Eastport
  41.9655  -6.2118  Santa María De La Vega
  42.1598  -7.6127  Villar De Barrio
@@ -49322,6 +49431,7 @@
  49.7897  43.4447  Kolobrodov
  42.9828  25.4922  Dryanovo
  30.3507  48.3115  Madan
+ 55.5017  90.2631  Yaga
  29.2497  117.8547  Wuyuan
  45.4000  -63.7000  Portapique
  -28.3620  23.4699  Lime Acres
@@ -49502,6 +49612,7 @@
  -15.9333  -44.0833  Santa Rita
  -14.2000  -48.0500  Colinas
  -0.2500  -50.0000  Santa Inês
+ 23.6333  -99.9667  El Carmen
  -14.3000  -56.2833  Teixeira
  10.0667  -84.8000  Aranjuez
  10.5833  -83.5167  Tortuguero
@@ -49834,6 +49945,7 @@
  42.4333  13.8167  Farindola
  29.0333  34.6667  Nuweibá
  33.9000  130.6667  Yamaga
+ 48.8333  -89.9167  Raith
  40.1228  41.6692  Rabat
  51.5756  30.2347  Stepanov
  42.0333  8.9500  Costa
@@ -52864,6 +52976,7 @@
  36.7512  -85.8405  Jeffrey
  46.4105  -90.2996  Hoyt
  33.3260  -79.5723  Lambert
+ 29.7430  -90.0176  Ollie
  33.0579  -79.7698  Smith
  38.0595  -91.4121  Amanda
  40.0654  -79.8523  Kenneth
@@ -52890,6 +53003,7 @@
  -21.0833  -175.3333  Kanokupolu
  36.0999  -80.2442  Winston-Salem
  41.4448  -74.0157  Cornwall-on-Hudson
+ 38.5923  -89.9112  O\Fallon
  47.6777  -116.7805  Coeur D\alene
  32.5871  -93.3685  Mcintyre
  39.5067  -106.1422  Copper Mountain
@@ -53485,6 +53599,7 @@
  51.8227  18.2283  Kamien
  38.9167  16.7167  Uria
  52.6684  15.0888  Kwiatkowice
+ 16.9500  -99.9667  Bajos Del Ejido
  -21.2500  -42.0833  Angola
  48.7167  9.5333  Ebersbach an der Fils
  47.7167  24.4333  Viseu
@@ -54456,6 +54571,7 @@
  64.8000  -14.0000  Breiðdalsvík
  52.7807  18.9526  Bobrowniki
  56.2201  69.4043  Cheremshanka
+ 23.8333  90.6333  Rangpur
  24.9797  68.1362  Sonda
  -3.1072  119.5891  Banda
  -30.0930  -63.3651  Canada

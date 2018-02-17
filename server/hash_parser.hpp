@@ -41,7 +41,7 @@ get_towns(
 	float latitude, 
 	float longitude, 
 	const Hashmap& geohash,
-	std::int32_t max_radius)
+	int max_radius)
 {
 	int key =   static_cast<int>(longitude * 10000);	
 	int client_latitude = static_cast<int>(latitude * 10000);
