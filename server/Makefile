@@ -11,11 +11,11 @@ DEPS = *.d
 
 all: $(OBJECTS) $(TARGET)
 	
-.cpp.o: $(shell find . -name '*.hpp')
+.cpp.o: $(shell find . -name '*.cpp')
 	$(CXX) $(CPPFLAGS) $< -o $@
 
 $(TARGET): $(OBJECTS)
-	$(CXX) $(LDFLAGS) $(OBJECTS) -o $@
+	$(CXX) $(OBJECTS) -o $@ $(LDFLAGS)
 
 clean:
 	rm -f $(OBJECTS) $(TARGET) $(DEPS)
